@@ -12,7 +12,6 @@
 <img src="https://img.shields.io/badge/🏢%20BugQore-Visit%20Website-f97316?style=for-the-badge" />
 </a>
 
-<img src="https://img.shields.io/badge/👥%20CODEOPS47-Security%20Team-f59e0b?style=for-the-badge" />
 
 </p>
 
@@ -31,7 +30,6 @@
 Passionate about software security, code quality, vulnerability discovery, and open-source contributions.
 
 * 🏢 BugQore
-* 👥 CODEOPS47 Security Team
 * 🌍 Open Source Security Community
 
 ---
